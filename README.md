@@ -1,25 +1,22 @@
-# Parking
 ---
-### 🔧 3. **Crypto App**
+### 🔧 4. **Parking Simulator App**
 
-# 📈 Crypto Tracker App
+# 🚗 Parking Simulator
 
-A simple and modern crypto tracking app built using React Native. Fetches live cryptocurrency data from an external API and presents it in a user-friendly interface.
+A beginner-level simulation of parking logic. Demonstrates conditional flows, UI updates, and basic layout handling in an Android environment.
 
 ## Features
-- Real-time crypto prices
-- List of popular cryptocurrencies
-- Responsive and clean layout
+- Simulate parking scenarios
+- Logic flow to track parking availability
+- Simple Android UI and layouts
 
 ## Tech Stack
-- React Native
-- CoinGecko API or similar
-- JavaScript / TypeScript
+- Java/Kotlin (Android)
+- Android SDK
 
 ## Screenshots
 _Add screenshots if available_
 
 ## Getting Started
-```bash
-npm install
-npx react-native run-android
+Open with Android Studio and build the project.
+
